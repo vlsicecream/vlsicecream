@@ -37,3 +37,5 @@ y-1.5=\frac{1}{4}\left(\left|-2\left(\frac{x}{1}+3000\right)\right|\right)+20\le
 -1000\left(\left|\sin y\right|\right)-1000\left\{0\le y\le360\right\}=x
 \frac{1}{100}x^{2}+\left(\left(y-150\right)-\sqrt[3]{x^{2}}\right)^{2}=5000
 ```
+
+https://hdlbits.01xz.net/
