@@ -1,4 +1,4 @@
-# Twinkle Twinkle Litter Star in [Desmos | Graphing Calculator](https://www.desmos.com/calculator)
+# How to Play Twinkle Twinkle Litter Star in [Desmos | Graphing Calculator](https://www.desmos.com/calculator)
 
 ### Paste:
 ```
@@ -25,17 +25,11 @@ f=-4x^{0}
 X: -20, -8
 Y: -10 10
 ```
-### Play Sound:
+
+### Graphing
+```
 Turn off every graph except 'z'.
+```
+
+### Play Sound:
 ![image](https://github.com/user-attachments/assets/16604de8-7ba8-474d-aee6-b0fbdd7357cb)
-
-# Love Paste in Desmos
-```
-1000\left(\frac{1}{\sqrt{\left(\left(x\right)+7000\right)}}\right)\left\{-6990\le x\le-5500\right\}
-\frac{1}{2000}\left(\left(\frac{1}{6}x+800\right)^{2}+\left(y-175\right)^{2}\right)=9
-y-1.5=\frac{1}{4}\left(\left|-2\left(\frac{x}{1}+3000\right)\right|\right)+20\left\{-3540\le x\le-2400\right\}
--1000\left(\left|\sin y\right|\right)-1000\left\{0\le y\le360\right\}=x
-\frac{1}{100}x^{2}+\left(\left(y-150\right)-\sqrt[3]{x^{2}}\right)^{2}=5000
-```
-
-https://hdlbits.01xz.net/
